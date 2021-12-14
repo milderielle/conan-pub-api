@@ -13,7 +13,7 @@ from fastapi.responses import PlainTextResponse
 app = FastAPI()
 
 def mild():
-    return "Hello Mild"
+    return "Hello Milddd"
 
 def result(res):
     return {"result":res}
