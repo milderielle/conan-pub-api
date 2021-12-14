@@ -14,7 +14,7 @@ app = FastAPI()
 
 def mild():
     return "Hello Mild"
-    
+
 def result(res):
     return {"result":res}
 
