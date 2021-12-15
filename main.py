@@ -10,7 +10,6 @@ import requests
 from bs4 import BeautifulSoup
 from fastapi.responses import PlainTextResponse
 
-
 app = FastAPI()
 
 def mild():    
