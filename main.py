@@ -13,7 +13,7 @@ from fastapi.responses import PlainTextResponse
 
 app = FastAPI()
 
-def mild():
+def mild():    
     return "Hello Mild"
 
 def bmi():
